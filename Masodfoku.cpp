@@ -6,7 +6,7 @@ int main()
 	cout << "Kérem az a*x^2+b*x+c=0 egyenlet paramétereit\n";
 	cout << "a= "; cin >> a;
 	cout << "b= "; cin >> b;
-	cout << "c= "; cin >> c;
+	cout << "c= "; cin >> c; 
 	if (a == 0)
 	{
 		if (b == 0)
