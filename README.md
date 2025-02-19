@@ -1,1 +1,1 @@
-# MasofokuEgyenletMegoldo
+# MasodfokuEgyenletMegoldo
